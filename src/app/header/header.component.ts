@@ -13,7 +13,6 @@ export class HeaderComponent implements OnInit {
       'header',
       'secondary',
       'abc',
-      'hi',
       { outlets: { secondary: ['test'] } },
     ]);
   }
